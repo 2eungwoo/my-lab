@@ -1,3 +1,6 @@
 [submodule "dont-use-lombok-blindly"]
 	path = dont-use-lombok-blindly
 	url = https://github.com/2eungwoo/dont-use-lombok-blindly.git
+[submodule "jpaquerytest"]
+	path = jpaquerytest
+	url = https://github.com/2eungwoo/jpatest.git
