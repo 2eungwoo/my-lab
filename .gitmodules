@@ -7,3 +7,6 @@
 [submodule "customfilters"]
 	path = customfilters
 	url = https://github.com/2eungwoo/spring-security-exception-handling-filter.git
+[submodule "jpafetchjoinpaging"]
+	path = jpafetchjoinpaging
+	url = https://github.com/2eungwoo/jpa_fetchjoin_paging.git
