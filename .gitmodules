@@ -10,3 +10,6 @@
 [submodule "jpafetchjoinpaging"]
 	path = jpafetchjoinpaging
 	url = https://github.com/2eungwoo/jpa_fetchjoin_paging.git
+[submodule "logback-async-test"]
+	path = logback-async-test
+	url = https://github.com/2eungwoo/logback-async-test.git
