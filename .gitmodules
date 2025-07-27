@@ -13,3 +13,7 @@
 [submodule "logback-async-test"]
 	path = logback-async-test
 	url = https://github.com/2eungwoo/logback-async-test.git
+[submodule "querydsltest"]
+	path = querydsltest
+	url = ../querydsltest
+	branch = main
