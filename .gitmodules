@@ -17,3 +17,6 @@
 	path = querydsltest
 	url = ../querydsltest
 	branch = main
+[submodule "isolation-level-test"]
+	path = isolation-level-test
+	url = https://github.com/2eungwoo/Isolation-level-test.git
