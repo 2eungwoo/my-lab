@@ -20,3 +20,6 @@
 [submodule "isolation-level-test"]
 	path = isolation-level-test
 	url = https://github.com/2eungwoo/Isolation-level-test.git
+[submodule "mapping-test"]
+	path = mapping-test
+	url = https://github.com/2eungwoo/mapping-test.git
