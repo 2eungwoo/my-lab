@@ -23,3 +23,6 @@
 [submodule "mapping-test"]
 	path = mapping-test
 	url = https://github.com/2eungwoo/mapping-test.git
+[submodule "redisson-prac"]
+	path = redisson-prac
+	url = https://github.com/2eungwoo/redisson-prac.git
