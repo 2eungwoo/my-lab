@@ -26,3 +26,6 @@
 [submodule "redisson-prac"]
 	path = redisson-prac
 	url = https://github.com/2eungwoo/redisson-prac.git
+[submodule "redis-prac"]
+	path = redis-prac
+	url = https://github.com/2eungwoo/redis-prac.git
