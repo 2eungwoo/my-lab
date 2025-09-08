@@ -29,3 +29,6 @@
 [submodule "redis-prac"]
 	path = redis-prac
 	url = https://github.com/2eungwoo/redis-prac.git
+[submodule "batchprac"]
+	path = batchprac
+	url = https://github.com/2eungwoo/spring-batch.git
