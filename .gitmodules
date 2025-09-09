@@ -32,3 +32,6 @@
 [submodule "batchprac"]
 	path = batchprac
 	url = https://github.com/2eungwoo/spring-batch.git
+[submodule "aop_prac"]
+	path = aop_prac
+	url = https://github.com/2eungwoo/AOP_prac.git
