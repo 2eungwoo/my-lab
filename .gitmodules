@@ -38,3 +38,6 @@
 [submodule "jpa_n_plus_one"]
 	path = jpa_n_plus_one
 	url = https://github.com/2eungwoo/jpa_n_plus_one.git
+[submodule "cache_stampede_test"]
+	path = cache_stampede_test
+	url = https://github.com/2eungwoo/cache-stampede-test.git
