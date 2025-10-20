@@ -41,3 +41,6 @@
 [submodule "cache_stampede_test"]
 	path = cache_stampede_test
 	url = https://github.com/2eungwoo/cache-stampede-test.git
+[submodule "batch_perform_prac"]
+	path = batch_perform_prac
+	url = https://github.com/2eungwoo/spring_batch_performance_prac.git
