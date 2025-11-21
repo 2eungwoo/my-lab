@@ -47,3 +47,6 @@
 [submodule "distriuted-lock"]
 	path = distriuted-lock
 	url = https://github.com/2eungwoo/distributed-lock.git
+[submodule "redis-lock-with-db-transaction"]
+	path = redis-lock-with-db-transaction
+	url = https://github.com/2eungwoo/redis-lock-with-db-transaction.git
